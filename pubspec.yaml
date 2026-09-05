@@ -1,9 +1,10 @@
 name: flutter_network_core
-description: >
-  Cross-platform Dio network layer for Flutter — HTTP methods, connectivity,
-  timeouts, queued access/refresh tokens, and typed exceptions.
+description: Cross-platform Dio network layer for Flutter. HTTP methods, connectivity, timeouts, queued access/refresh tokens, and typed exceptions.
 version: 0.1.0
 homepage: https://github.com/ghanashyambehera/flutter_network_core
+repository: https://github.com/ghanashyambehera/flutter_network_core
+issue_tracker: https://github.com/ghanashyambehera/flutter_network_core/issues
+documentation: https://github.com/ghanashyambehera/flutter_network_core#readme
 topics:
   - dio
   - network
